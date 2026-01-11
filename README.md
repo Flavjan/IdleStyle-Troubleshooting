@@ -30,36 +30,10 @@
 
 <!-- START Features.mustache -->
 
-## Features<!-- END Features.mustache -->
-* Flawless Custom Animations
-* Light Weight and Easy Manipulation
-* Customizable Skin Groups
-* Multiple Monitor Support
+## ⚠ ATTENTION ⚠
+* This repository is only for me to try and make some features I want in this pack
 
-<!-- START GetStarted.mustache -->
-
-## Getting Started
-
-### Prerequisites
-- **Windows 10** or above
-> For older systems, **Powershell v5.1 or newer** is required. Upgrade powershell **[here](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-7.2#upgrading-existing-windows-powershell)**!
-
-### Installation 
-Run the following command in Powershell to download the latest version of JaxCore.
-
-(To launch Powershell as an Admin: `Win + R` -> `powershell` -> Press `CTRL + SHIFT + ENTER` on your keyboard. Powershell can also be launched via Windows Search.)
-
-```
-Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/Jax-Core/JaxCore/master/CoreInstaller.ps1" | Invoke-Expression
-```
-
-> Alternatively you can download it from the [website](https://jax-core.github.io/)
-
-After you've proceeded through the welcome screen, select `IdleStyle` (might have to scroll down) and click `Install`. It will appear in the library page after that.
-<br />
-<br /><!-- END GetStarted.mustache -->
-<!-- START Setup.mustache -->
-
+* 
 ### Configuration
 Use the JaxCore menu to configure IdleStyle.
 For more information, visit [JaxCore's documentation](https://jaxcore.gitbook.io/core/)
@@ -67,11 +41,7 @@ For more information, visit [JaxCore's documentation](https://jaxcore.gitbook.io
 <br><!-- END Setup.mustache -->
 <!-- START Footer.mustache -->
 
-## Need assistance?
-* Join the [CoreCommunity Discord Server](https://discord.gg/JmgehPSDD6) for help
-* or [Create an issue](https://github.com/Jax-Core/IdleStyle)
-
-## Say Hi!
+## Say Hi! (ORIGINAL CREATOR)
 * Follow me on 👨‍💻 [Github](https://github.com/EnhancedJax) and stay updated on new things that I make
 * You can also watch me on 🐦 [DeviantArt](https://www.deviantart.com/jaxoriginals) instead
 * Message me on 🗨️ [Discord](https://discord.gg/JmgehPSDD6)
