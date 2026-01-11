@@ -30,10 +30,13 @@
 
 <!-- START Features.mustache -->
 
+
+
 ## ⚠ ATTENTION ⚠
 * This repository is only for me to try and make some features I want in this pack
 
-* 
+
+
 ### Configuration
 Use the JaxCore menu to configure IdleStyle.
 For more information, visit [JaxCore's documentation](https://jaxcore.gitbook.io/core/)
